@@ -1,2 +1,2 @@
 # Learning_tkinter
-Doing a simple window with lots of gadgets without purpose just to learn more about
+There is notthing more than just a tkinter window that don't make sense. I did this just to learn about some widgets and callbacks.
